@@ -6,7 +6,7 @@ of an alignment-free algorithm to generate a dissimilarity matrix from
 comparatively large collection of DNA or Amino Acid sequences,
 preferably whole-genome data, for phylogenetic studies.
 
-##News
+## News
 The latest DLTree 1.1 includes fixes for issues identified in 1.0 as well as other enhancements and changes. The notable changes compared to 1.0 include:
 1. 10000+ species are supproted.
 2. Cutting data redundancy by MD5 is supported. 
