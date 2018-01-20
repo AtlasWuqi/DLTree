@@ -13,8 +13,6 @@ The latest DLTree 1.1 includes fixes for issues identified in 1.0 as well as oth
 You can test it using the command ./md5.sh xx.fasta. 
 It only contains bases or residues, ignoring comments and the line break.
 
-Updated the packaged version of the Tomcat Native Library to 1.2.16 to pick up the latest Windows binaries built with APR 1.6.3 and OpenSSL 1.0.2m
-
 ## Preparation
 Java 1.6+ and megacc 6+
 
