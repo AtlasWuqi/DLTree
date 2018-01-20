@@ -12,7 +12,7 @@ Java 1.6+ and megacc 6+
 ### Get started
 1.configure conf/conf.properties
 2.specify total available memory ./start.sh
-3. chmod 744 ./start.sh mega/megacc
+3. chmod u+x ./start.sh mega/megacc
 4.run ./start.sh
 5.check result
 
